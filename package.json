@@ -1,0 +1,13 @@
+{
+  "name": "ts-event-emitter",
+  "version": "1.0.0",
+  "description": "simple implementation of the observer pattern using typescript",
+  "scripts": {
+    "build": "rm -rf dist && tsc -p tsconfig.json"
+  },
+  "author": "Bashar Ghazala",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
